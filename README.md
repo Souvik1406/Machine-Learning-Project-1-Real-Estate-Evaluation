@@ -1,2 +1,4 @@
 # Machine-Learning-Project-1-Real-Estate-Evaluation
-A Machine Learning Project to Estimate and take a deep dive into the mindset of a CEO who owns a real Estate business and his take on the daily statistical insights of his company
+A Machine Learning Project to Estimate and take a deep dive into the mindset of a CEO who owns a real Estate business and his take on the daily statistical insights of his company.
+
+We will understand the problem of a real estate company from its CEO and then apply ML to solve it.In this project I will be walking through analyzing the problem from collecting data, importing it to a Jupyter notebook, looking for promising attributes, finding out correlations, plotting graphs, creating a pipeline, dealing with missing values and much more. At the end we present the problem to the real estates company who will use the model for predicting house prices given a set of features. I will use concepts like cross validation, train-test splitting, stratified shuffle split, cross validation and sampling work in action. 
